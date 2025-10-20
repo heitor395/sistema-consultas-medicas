@@ -1,0 +1,2 @@
+# Normaliza todas as terminações de linha para o padrão do GitHub (LF)
+* text=auto
