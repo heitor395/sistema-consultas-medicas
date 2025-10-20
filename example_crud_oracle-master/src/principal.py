@@ -20,7 +20,7 @@ def reports(opcao_relatorio:int=0):
     else:
         print("Opção inválida.")
 
-def inserir(opcao_inserir:int=0):aaaa
+def inserir(opcao_inserir:int=0):
     if opcao_inserir == 1:
         ctrl_paciente.inserir_paciente()
     elif opcao_inserir == 2:
